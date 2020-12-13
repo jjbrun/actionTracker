@@ -11,13 +11,6 @@ go get -u github.com/jjbrun/actionTracker
 ## Examples
 
 ```
-package main
-
-import (
-	"actionTracker/actionTracker"
-	"fmt"
-)
-
 func main() {
 	jump100 := `{"action":"jump", "time":100}`
 	jump200 := `{"action":"jump", "time":200}`
