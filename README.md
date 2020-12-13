@@ -1,12 +1,12 @@
 # ActionTracker
 
-ActionTracker is a Golang library for keeping statistics for performed actions.
+ActionTracker is a Golang library for keeping statistics of performed actions.
 
 ## Install
 
 With a [correctly configured](https://golang.org/doc/install#testing) Go toolchain:
 
-go get -u https://github.com/jjbrun/actionTracker
+go get -u github.com/jjbrun/actionTracker
 
 ## Examples
 
