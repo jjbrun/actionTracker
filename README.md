@@ -35,6 +35,16 @@ adding act:ion: {run 75}
 [{"action":"jump","avg":150},{"action":"run","avg":75}]
 ```
 
+## Running Unit Test
+
+- Download the code
+- Navigate to the root of the project
+- Run all unit tests:
+```
+go test ./...
+```
+
+
 ## Future Considerations
 
 - Only supporting a collection of predefined actions 
