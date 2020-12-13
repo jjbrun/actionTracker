@@ -33,7 +33,7 @@ func main() {
 }
 ```
 
-##Output
+## Output
 
 ```
 adding act:ion: {jump 100}
